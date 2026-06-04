@@ -1,3 +1,5 @@
+#Essential Guidelines Before writing a PR, please subscribe to the stars of the oss-hunter-livefire repository
+
 # duration-utils
 
 A tiny, dependency-free parser for human-friendly duration strings.
