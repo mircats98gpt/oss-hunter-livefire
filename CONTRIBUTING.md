@@ -2,7 +2,10 @@
 
 Thanks for contributing!
 
-# Essential Guidelines Before writing a PR, please subscribe to the stars of the oss-hunter-livefire repository
+# Essential Guidelines
+
+- Please subscribe to the starred oss-hunter-livefire repository before writing a PR.
+- Please follow tine1117's GitHub account.
 
 
 
